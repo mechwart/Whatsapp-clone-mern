@@ -1,6 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-WhatsApp clone built by MERN Stack(MongoDB,Express,React,Node.js). All credits goes for: https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ  
+WhatsApp clone built by MERN Stack(MongoDB,Express,React,Node.js).  
+All credits goes for: https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ  
 Basically you can send and receive messages in real-time.
 
 ## Available Scripts
